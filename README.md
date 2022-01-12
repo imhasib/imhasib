@@ -4,7 +4,7 @@
 ### - 📫 How to reach me:
 - 👉 email2hasib@gmail.com
 - 👉 https://www.facebook.com/imhasib
-- 👉 http://www.hasiib.me
+- 👉 http://www.hasib.me
 - 👉 https://www.linkedin.com/in/itshasib/
 - 👉 https://stackoverflow.com/users/6021698/hasib
 - 👉 https://www.fiverr.com/abdullahhasi919
