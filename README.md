@@ -13,23 +13,23 @@
 ### ⚡ I am specialized on:
 
 Throughout the journey of my professional life, I have gained strong knowledge and substantial work experience on:
- ● Programming Languages: Java, JavaScript, typescript 
- ● Java Spring Boot framework for developing backend web services and RESTful web services.
- ● Express NodeJs web application framework to build simple MVP
- ● Microservice architecture
- ● Relational databases like MySQL, and PostgreSQL and document-oriented databases like MongoDB
- ● Design patterns
- ● Web app security, Finding vulnerabilities and mitigating security threats.
- ● CICD using Jenkins
- ● Containerization: Docker & Kubernetes
- ● AWS: API Gateway, EC2 & S3 bucket 
- ● Code Quality: SonarQube & ESLint
- ● Testing framework: Junit, Mockito
- ● Angular framework, Angular Material & Bootstrap for building web applications
- ● Build tool: Gradle, Maven & Webpack
- ● Process: JIRA, Git, Bitbucket, Trello
- ● Swagger for visualizing RESTful web services using OpenAPI specification:
- ● Tools: JHipster, RabbitMQ, OAuth
+ - Programming Languages: Java, JavaScript, typescript 
+ - Java Spring Boot framework for developing backend web services and RESTful web services.
+ - Express NodeJs web application framework to build simple MVP
+ - Microservice architecture
+ - Relational databases like MySQL, and PostgreSQL and document-oriented databases like MongoDB
+ - Design patterns
+ - Web app security, Finding vulnerabilities and mitigating security threats.
+ - CICD using Jenkins
+ - Containerization: Docker & Kubernetes
+ - AWS: API Gateway, EC2 & S3 bucket 
+ - Code Quality: SonarQube & ESLint
+ - Testing framework: Junit, Mockito
+ - Angular framework, Angular Material & Bootstrap for building web applications
+ - Build tool: Gradle, Maven & Webpack
+ - Process: JIRA, Git, Bitbucket, Trello
+ - Swagger for visualizing RESTful web services using OpenAPI specification:
+ - Tools: JHipster, RabbitMQ, OAuth
 
 <!--
 **imhasib/imhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
